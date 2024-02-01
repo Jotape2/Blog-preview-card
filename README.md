@@ -4,7 +4,7 @@ Esta é uma solução para o [desafio do cartão de visualização do blog no Fr
 
 ## Visão geral
 
-### O desafio
+### O Desafio
 
 - Este é um desafio apenas de HTML e CSS é um projeto perfeito para iniciantes que estão se familiarizando com os fundamentos de HTML e CSS, como estrutura HTML e modelo de caixa.
 
@@ -15,7 +15,7 @@ Esta é uma solução para o [desafio do cartão de visualização do blog no Fr
 Aqui está a solução que eu consiguir chegar ☝️.
 
 
-### Construído com
+### Construído com:
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -25,8 +25,7 @@ Aqui está a solução que eu consiguir chegar ☝️.
 
 ### O que eu aprendi
 
-Aprendi muito com esse pequeno desafio, umas dos códigos que mais a cabeça foi para usar a propridade "box-shadow" e "border" por mais simples que for, quando você vai programando vai dando um branco na hora. Então a pratica leva a 
-perfeição.
+Aprendi muito com esse pequeno desafio, umas dos códigos que mais a cabeça foi para usar a propridade "box-shadow" e "border" por mais simples que for, quando você vai programando vai dando um branco na hora. Então a pratica leva a perfeição.
 
 Modo que eu apliquei ele no meu código:
 
@@ -43,5 +42,5 @@ Modo que eu apliquei ele no meu código:
 
 ## Agradecimentos
 
-Agradeço ao site [FrontendMento] (https://www.frontendmentor.io/home). Que proporcinou esses desafios para que eu
+Agradeço ao site [FrontendMentor.io] (https://www.frontendmentor.io/home). Que proporcinou esses desafios para que eu
 testasse meus limites e ver que tenho muito a evoluir. Então entrem lá e testem suas habilidades 😄
