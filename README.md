@@ -12,7 +12,7 @@ Esta é uma solução para o [desafio do cartão de visualização do blog no Fr
 
 ![](/design/desktop-design.jpg)
 
-Aqui está a solução que eu consiguir chegar ☝️.
+Aqui está a solução que eu conseguir chegar ☝️.
 
 
 ### Construído com:
